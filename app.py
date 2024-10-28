@@ -19,8 +19,8 @@ try:
 except:
     pass
 
-st.subheader("Una pequeña Fábula.")
-st.write("EL RENACUAJO PASEADOR"
+st.subheader("EL RENACUAJO PASEADOR.")
+st.write(
 "El hijo de rana, Rinrín renacuajo"
 "Salió esta mañana muy tieso y muy majo"
 "Con pantalón corto, corbata a la moda"
