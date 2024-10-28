@@ -85,8 +85,8 @@ st.write(
     
 "aflójese un poco chaleco y corbata,"
     
-"y yo mientras tanto les voy a cantar
-"
+"y yo mientras tanto les voy a cantar"
+    
 "una cancioncita muy particular."
     
 "Mas estando en esta brillante función"
