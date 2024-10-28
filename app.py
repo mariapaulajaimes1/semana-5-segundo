@@ -20,8 +20,8 @@ except:
     pass
 
 st.subheader("Una pequeña Fábula.")
-st.write('EL RENACUAJO PASEADOR
-El hijo de rana, Rinrín renacuajo
+st.write("EL RENACUAJO PASEADOR"
+"El hijo de rana, Rinrín renacuajo
 Salió esta mañana muy tieso y muy majo
 Con pantalón corto, corbata a la moda
 Sombrero encintado y chupa de boda.
@@ -74,7 +74,7 @@ y éste se lo embucha de un solo estirón
 Y así concluyeron, uno, dos y tres
 Ratón y Ratona, y el Rana después;
 Los gatos comieron y el pato cenó,
-¡y mamá Ranita solita quedó!'
+¡y mamá Ranita solita quedó!'"
         
         )
            
